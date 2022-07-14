@@ -28,7 +28,16 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 **EJERCICIOS CAPITULO 11**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/11-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/11-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/11-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/11-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/11-5.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/11-6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/11-7.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/11-8.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/11-9.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/11-10.jpg)
 
 **EJERCICIOS CAPITULO 12**
 
