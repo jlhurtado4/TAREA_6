@@ -301,4 +301,4 @@ llamado dieléctrico.
 Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUCACIÓN.
 
 RUBRICA
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/RubicasTarea.png)
