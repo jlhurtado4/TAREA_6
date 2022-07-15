@@ -18,7 +18,14 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 - **CAPITULO 11**
 
+LA FORMA DE ONDA SINUSOIDAL: La forma de onda sinusoidal u onda seno es el tipo fundamental de corriente alterna (ca)
+y voltaje alterno. También se conoce como onda sinusoidal o, simplemente, sinusoide.
+El servicio eléctrico provisto por la compañía de electricidad es en la forma de voltaje y
+corriente sinusoidales. Además, otros tipos de formas de onda repetitivas se componen de muchas ondas seno individuales llamadas armónicas. 
 
+PERIODO DE UNA ONDA SENO
+Una onda seno varía con el tiempo (t) de una manera que es definible.
+El tiempo requerido para que una onda seno complete todo un ciclo se llama periodo (T)
 
 - **CAPITULO 12**
 
