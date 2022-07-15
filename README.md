@@ -139,7 +139,72 @@ osciloscopios son capaces de mostrar en pantalla por lo menos dos señales a la 
 
 - **CAPITULO 12**
 
+EL CAPACITOR BÁSICO: Un capacitor es un componente eléctrico pasivo que guarda energía eléctrica y tiene la
+propiedad de capacitancia. 
 
+Construcción básica: 
+En su más simple forma, un capacitor es un dispositivo eléctrico que guarda energía eléctrica y
+se construye con dos placas conductoras paralelas separadas por un material aislante llamado
+dieléctrico. Los conectores están unidos a las placas paralelas.
+
+Capacitancia: 
+La cantidad de carga que un capacitor puede almacenar por unidad de voltaje entre sus placas es
+su capacitancia, designada mediante C. Es decir, la capacitancia es una medida de la capacidad
+de un capacitor de guardar carga. Mientras más carga por unidad de voltaje puede guardar un capacitor, más grande es su capacidad, como lo expresa la fórmula siguiente: C = Q/V. Donde C es capacitancia, Q es carga, y V es voltaje.
+
+La unidad de capacitancia El farad (F) es la unidad básica de capacitancia. Recuerde que el
+coulomb (C) es la unidad de carga eléctrica.
+Un farad es la cantidad de capacitancia cuando se guarda un coulomb (C) de carga con
+un volt entre las placas.
+La mayoría de los capacitores que se utilizan en trabajos de electrónica tienen valores de capacitancia especificados en microfarads (mF) y picofarads (pF).
+
+TIPOS DE CAPACITORES: Los capacitores se clasifican normalmente de acuerdo con el tipo de material dieléctrico y si
+están o no polarizados. Los tipos más comunes de materiales dieléctricos son mica, cerámica,
+película plástica, y electrolíticos (óxido de aluminio y óxido de tantalio). 
+
+Capacitores fijos: 
+Capacitores de mica: Dos tipos de capacitores de mica son los de laminillas y hojas de mica
+plateada. Las laminillas metálicas forman la placa,
+con las laminillas alternas conectadas entre sí para incrementar el área de placas. Se utilizan más
+capas para incrementar el área de placas, y por tanto, se incrementa la capacitancia. El apilamiento
+de hojas de mica/laminillas se encapsula en un material aislante.
+
+Capacitores de cerámica: Los dieléctricos de cerámica proporcionan constantes dieléctricas
+muy altas (1200 es un valor típico). Por consiguiente, se pueden alcanzar valores de capacitancia
+comparativamente altos en un tamaño físico pequeño. Los capacitores de cerámica están disponibles comúnmente en forma de disco.
+
+CAPACITORES EN SERIE: La capacitancia total de una conexión en serie de capacitores es menor que la capacitancia individual de cualquiera de los capacitores. Los capacitores dispuestos en serie dividen el voltaje que hay entre las terminales de cada uno ellos en proporción a su capacitancia.
+
+Capacitancia total
+Cuando se conectan capacitores en serie, la capacitancia total es menor que el valor de la capacitancia más pequeña porque la separación efectiva entre las placas se incrementa. El cálculo de capacitancia total en serie es análogo al de resistencia total de resistores dispuestos en paralelo
+(Capítulo 6).
+
+Cuando el interruptor se cierra, los capacitores se
+cargan a medida que se establece la corriente a través del circuito. Dado que tenemos un circuito
+en serie, la corriente debe ser la misma en todos los puntos, como se ilustra. Como la corriente es
+la velocidad de flujo de la carga, la cantidad de carga guardada por cada capacitor es igual a la
+carga total, expresada como: QT = Q1 = Q2 = Q3 = ... = Qn
+
+Dos capacitores en serie Cuando sólo dos capacitores están en serie, se utiliza una forma especial de la ecuación: CT= 1/(1/C1)+(1/C2)
+
+CAPACITORES EN PARALELO: Las capacitancias se suman cuando los capacitores están conectados en paralelo.
+
+Cuando se conectan capacitores en paralelo, la capacitancia total es la suma de las capacitancias individuales porque el área de las placas se incrementa. El cálculo de la capacitancia total en
+paralelo es análogo al de la resistencia total en serie (Capítulo 5).
+
+La corriente de
+carga total que viene de la fuente se divide en la unión de las ramas en paralelo. Existe una corriente de carga diferente a través de cada rama, de modo que cada capacitor puede guardar distinta
+carga. Según la ley de la corriente de Kirchhoff, la suma de todas las corrientes de carga es igual
+a la corriente total. Por consiguiente, la suma de las cargas guardadas en los capacitores es igual a
+la carga total. Además, los voltajes entre todas las ramas en paralelo son iguales. Se utilizan estas observaciones para desarrollar, como vemos a continuación, una fórmula con qué calcular la
+capacitancia total en paralelo en el caso general de n capacitores dispuestos en paralelo: QT = Q1 + Q2 + Q3 + ... + Qn
+
+CAPACITORES EN CIRCUITOS DE CD: Un capacitor se carga cuando se conecta a una fuente de voltaje de cd. La acumulación de carga entre las placas ocurre de una manera predecible ya que depende de la capacitancia y la resistencia presentes en un circuito.
+
+Conforme la placa A pierde electrones y la placa B los gana, la placa A se vuelve positiva
+con respecto a la placa B. A medida que este proceso de carga continúa, el voltaje entre las placas
+se acumula con rapidez hasta que es igual al voltaje aplicado, VS, pero de polaridad opuesta, como se muestra en la parte (c). Cuando el capacitor está totalmente cargado, no hay corriente.
+Un capacitor bloquea la corriente directa constante. 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
