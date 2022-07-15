@@ -206,6 +206,27 @@ con respecto a la placa B. A medida que este proceso de carga continúa, el volt
 se acumula con rapidez hasta que es igual al voltaje aplicado, VS, pero de polaridad opuesta, como se muestra en la parte (c). Cuando el capacitor está totalmente cargado, no hay corriente.
 Un capacitor bloquea la corriente directa constante. 
 
+CAPACITORES EN CIRCUITOS DE CA: Como se sabe, un capacitor bloquea la corriente directa. Un capacitor deja pasar la corriente
+alterna pero con cierta cantidad de oposición, llamada reactancia capacitiva, que depende de
+la frecuencia de la corriente alterna.
+
+Para explicar a cabalidad cómo funcionan los capacitores en un circuito de ca, se debe introducir el concepto de derivada. La derivada de una cantidad que varía con el tiempo es la razón de
+cambio instantánea de dicha cantidad.
+Recordemos que la corriente es la velocidad de flujo de la carga (electrones). Por consiguiente, la corriente instantánea, i, se expresa como la razón de cambio instantánea de la carga, q, con
+respecto al tiempo, t.
+
+i = dq/dt
+
+El término dq/dt es la derivada de q con respecto al tiempo y representa la razón de cambio instantánea de q. Asimismo, en función de cantidades instantáneas, q  Cv. Por consiguiente, de
+acuerdo con una regla básica del cálculo diferencial, la derivada de q con respecto al tiempo es
+dq/dt  C(dv/dt). Como i  dq/dt, se obtiene la siguiente relación:
+
+i = C*(dv/dt)
+
+Esta fórmula establece que
+La corriente instantánea en el capacitor es igual a la capacitancia multiplicada por la razón de cambio instantánea del voltaje presente entre las terminales del capacitor.
+Mientras más rápido cambia el voltaje entre las terminales de un capacitor, mayor es la corriente.
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 **EJERCICIOS CAPITULO 11**
@@ -258,7 +279,22 @@ Un cuarto de ciclo es de 90° o p/2 radianes.
 
 ◆ El ángulo de fase es la diferencia en grados o radianes entre una onda seno dada y una onda seno de referencia. 
 
+◆ Un capacitor está compuesto por dos placas conductoras en paralelo separadas por un material aislante
+llamado dieléctrico.
 
+◆ Un capacitor guarda energía en el campo eléctrico presente entre las placas.
+
+◆ Un farad es la cantidad de capacitancia cuando se guarda un coulomb de carga con un volt entre las placas.
+
+◆ La capacitancia es directamente proporcional al área de placas e inversamente proporcional a la separación entre placas.
+
+◆ La constante dieléctrica es una indicación de la capacidad de un material para establecer un campo eléctrico.
+
+◆ La resistencia dieléctrica es un factor que determina el voltaje de ruptura de un capacitor.
+
+◆ Un capacitor bloquea la cd constante.
+
+◆ La constante de tiempo para un circuito RC dispuesto en serie es la resistencia multiplicada por la capacitancia. 
 
 6. BIBLIOGRAFÍA
 
