@@ -178,7 +178,22 @@ osciloscopios son capaces de mostrar en pantalla por lo menos dos señales a la 
 
 5. CONCLUSIONES
 
- 
+◆ La onda seno es una forma de onda periódica variable con el tiempo.
+
+◆ La corriente alterna cambia de dirección en respuesta a cambios de la polaridad del voltaje de fuente.
+
+◆ Un ciclo de una onda seno alterna consta de alternación positiva y alternación negativa.
+
+◆ Dos fuentes comunes de ondas seno son el generador de ca electromagnético y el circuito oscilador electrónico.
+
+◆ Un ciclo completo de una onda seno es de 360° o 2p radianes, un medio ciclo es de 180° o p radianes.
+Un cuarto de ciclo es de 90° o p/2 radianes.
+
+◆ Un voltaje sinusoidal puede ser generado por un conductor que gira en un campo magnético.
+
+◆ El ángulo de fase es la diferencia en grados o radianes entre una onda seno dada y una onda seno de referencia. 
+
+
 
 6. BIBLIOGRAFÍA
 
