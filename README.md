@@ -71,6 +71,46 @@ Valor promedio:
 El valor promedio de una onda tomado durante un ciclo completo siempre es cero porque los valores positivos (sobre el cruce por cero) neutralizan los valores negativos (debajo del cruce por
 cero).
 
+MEDICIÓN ANGULAR DE UNA ONDA SENO: Como se ha visto, las ondas seno se miden a lo largo del eje horizontal con base
+en el tiempo; sin embargo, dado que el tiempo para completar medio ciclo o cualquier fracción de un ciclo depende de la frecuencia, a menudo resulta útil especificar puntos en la onda seno en función de una medición angular expresada en
+grados o radianes. Un generador de ca produce voltaje sinusoidal. Conforme los devanados del rotor del generador de ca realizan una rotación de 360°, la salida de voltaje resultante es un ciclo completo de una
+onda seno. Por tanto, la medición angular de una onda seno puede relacionarse con la rotación
+angular de un generador
+
+Medición angular: 
+Un grado es una medida angular correspondiente a 1/360 de un círculo o una revolución completa. Un radián es la medición angular a lo largo de la circunferencia de un círculo que es igual
+al radio del círculo. Un radián (rad) equivale a 57.3°
+
+La letra griega (pi) representa la relación de la circunferencia de cualquier círculo a su
+diámetro y tiene un valor constante de aproximadamente 3.1416.
+
+LA FÓRMULA DE LA ONDA SENO: Una onda seno puede representarse gráficamente mediante valores de voltaje o corriente
+en el eje vertical y por una medición angular (grados o radianes) a lo largo del eje horizontal. Esta gráfica puede ser expresada matemáticamente, como se verá.
+
+Esta fórmula establece que cualquier punto en la onda seno, representado por un valor instantáneo (y), es igual al valor máximo A por el seno (sen) del ángulo u en dicho punto. Por ejemplo,
+cierta onda seno de voltaje tiene un valor pico de 10 V. Se puede calcular el voltaje instantáneo
+en un punto localizado en 60° a lo largo del eje horizontal como sigue, donde y = v y A = Vp.
+
+INTRODUCCIÓN A LOS FASORES: Los fasores proporcionan un método gráfico para representar cantidades que tienen tanto
+magnitud como dirección (posición angular). Los fasores son especialmente útiles para
+representar ondas seno en función de su magnitud y su ángulo de fase, y también para analizar los circuitos reactivos incluidos en capítulos posteriores.
+
+Puede ser que usted ya esté familiarizado con los vectores. En matemáticas y ciencias, un vector es cualquier cantidad que tiene tanto magnitud como dirección. Ejemplos de vectores son la
+fuerza, la velocidad y la aceleración. La manera más simple de describir un vector es asignando
+una magnitud y un ángulo a una cantidad.
+En electrónica, un fasor es un tipo de vector; pero el término en general se refiere a cantidades
+que varían con el tiempo, tal como las ondas seno.
+
+ANÁLISIS DE CIRCUITOS DE CA: Cuando a un circuito se le aplica un voltaje de ca que varía con el tiempo, tal como un
+voltaje sinusoidal, las leyes de circuito y las fórmulas de potencia que se aprendieron con
+anterioridad aún son aplicables. La ley de Ohm, las leyes de Kirchhoff, y las fórmulas
+de potencia se aplican a circuitos de ca de igual forma que se aplican a circuitos de cd
+
+Cuando utilice la ley de Ohm en circuitos de ca, recuerde que el voltaje y la corriente deben
+expresarse consistentemente, es decir, ambos como valores pico, ambos como valores rms, ambos
+como valores promedio, y así sucesivamente. Las leyes del voltaje y de la corriente de Kirchhoff
+se aplican tanto a circuitos de ca como a circuitos de cd.
+
 - **CAPITULO 12**
 
 
