@@ -111,6 +111,32 @@ expresarse consistentemente, es decir, ambos como valores pico, ambos como valor
 como valores promedio, y así sucesivamente. Las leyes del voltaje y de la corriente de Kirchhoff
 se aplican tanto a circuitos de ca como a circuitos de cd.
 
+VOLTAJES SUPERPUESTOS DE CD Y DE CA: En muchos circuitos prácticos, se encontrarán tanto voltajes de cd como de ca combinados.
+Un ejemplo de esto se encuentra en circuitos de amplificador donde los voltajes de señal de
+ca se superponen en los voltajes de operación de cd. Esta es una aplicación común del teorema de superposición estudiado en el capítulo 8.
+
+Si VCD es mayor que el valor pico del voltaje sinusoidal, el voltaje combinado es una onda seno que nunca invierte su polaridad y es, por consiguiente, no alterna. Es decir, la onda aparece
+montada en un nivel de cd.
+
+FORMAS DE ONDA NO SINUSOIDALES: Las ondas seno son importantes en electrónica, pero de ningún modo son el único tipo de
+forma de onda de ca o variable con el tiempo. Otros dos tipos importantes de formas de onda
+son la forma de onda pulsante y la forma de onda triangular. 
+
+Formas de onda pulsantes: 
+De modo básico, un pulso puede ser descrito como una transición muy rápida (borde de entrada)
+de un nivel de corriente o voltaje (línea de base) a un nivel de amplitud, y luego, después de un
+intervalo de tiempo, una transición muy rápida (borde de salida) de regreso al nivel de línea de
+base original. Las transiciones de nivel también se llama escalones. Un pulso ideal consta de dos
+escalones opuestos de igual magnitud. Cuando el borde de entrada o de salida se dirige a positivo, se llama borde de subida. Cuando el borde de entrada o de salida se dirige a negativo, se llama borde de caída.
+
+EL OSCILOSCOPIO: El osciloscopio es un instrumento de prueba ampliamente utilizado y muy versátil para
+observar y medir formas de onda. El osciloscopio es básicamente un dispositivo de visualización que traza, en su pantalla, una
+gráfica de una señal eléctrica medida. En la mayoría de las aplicaciones, la gráfica muestra cómo
+cambian las señales con el tiempo. El eje vertical de la pantalla de visualización representa voltaje, y el eje horizontal representa tiempo. Se puede medir la amplitud, el periodo y la frecuencia
+de una señal por medio de un osciloscopio. Además, se puede determinar el ancho de pulso, el ciclo de
+trabajo, el tiempo de subida y el tiempo de caída de una forma de onda pulsante. La mayoría de los
+osciloscopios son capaces de mostrar en pantalla por lo menos dos señales a la vez, lo cual permite observar su relación de tiempo.
+
 - **CAPITULO 12**
 
 
