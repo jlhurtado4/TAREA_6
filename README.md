@@ -41,7 +41,19 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 **EJERCICIOS CAPITULO 12**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-5.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-7.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-8.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-9.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-10.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-11.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-12.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/12-13.jpg)
 
 4. VIDEO
 
