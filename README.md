@@ -260,7 +260,7 @@ Mientras más rápido cambia el voltaje entre las terminales de un capacitor, ma
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=h_m6qFRNITU
 
 5. CONCLUSIONES
 
